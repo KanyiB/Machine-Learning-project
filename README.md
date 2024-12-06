@@ -4,7 +4,8 @@ GARMENT WORKER PRODUCTIVITY PREDICTION
 Introduction
 This project focuses on predicting productivity levels in the garment manufacturing industry. Using operational data such as work-in-progress (WIP), overtime, and incentives, you will develop a machine-learning model to forecast productivity. Your work will directly contribute to optimizing resource allocation and improving operational efficiency. Essential tasks include data preparation, analysis, and building models using logistic regression, random forests, and gradient-boosting techniques.
 Loading the libraries
- 
+ ![image](https://github.com/user-attachments/assets/1e0ec3c6-6a32-4088-940b-6b6dfc4d7375)
+
 Loading the data set  
  
 Getting information about the data 
